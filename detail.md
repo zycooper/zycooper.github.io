@@ -30,7 +30,7 @@ MAG Retail Group
 #### <hr>
 
 
-### Projects At SMS
+### Projects S
 #### Base Tool
 ##### Download And Upload Tool
 ##### Dev_Tool
