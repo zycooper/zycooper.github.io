@@ -1,8 +1,8 @@
-### **About**
+## **About**
 Hi, this is *Yuan Zhang*, an .Net Developer, sql ninja and data enthusiast. Below is what I'm excel and capable of! Enjoy!
 ***
 
-### **Technical Stack**
+## **Technical Stack**
 Front-End: 
 ![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
 ![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff)
@@ -27,7 +27,7 @@ Platform:
 
 ***
 
-### **Work Experience**
+## **Work Experience**
 ***Senior Software Engineer*** <span>&#64;</span>
 SMS InfoComm <span>&#8226;</span>
 Mar 2017 - Present<br>
@@ -42,36 +42,34 @@ MAG Retail Group <span>&#8226;</span>
 Oct 2015 - Jun 2016<br>
 ***
 
-### **Projects**
-##### **General Tools for Team** 
+## **Projects**
+#### **General Tools for Team** 
 &nbsp;&nbsp;<span>&#8226;</span> bullet point 1<br>
 &nbsp;&nbsp;<span>&#8226;</span> [Open Source Version](https://duckduckgo.com).<br>
-* bulliont
 
-##### **Report Platforms**
+#### **Report Platforms**
 &nbsp;&nbsp;<span>&#8226;</span> Aging, X report and dashboard<br>
 &nbsp;&nbsp;<span>&#8226;</span> Both web and winform<br>
 &nbsp;&nbsp;<span>&#8226;</span> [Open Source Demo](https://duckduckgo.com).<br>
 
-##### **Email Report Apps**
+#### **Email Report Apps**
 &nbsp;&nbsp;<span>&#8226;</span> <br>
 
-##### **Fine Tune Database**
+#### **Fine Tune Database**
 &nbsp;&nbsp;<span>&#8226;</span> Dev_Tool and set up download job<br>
 &nbsp;&nbsp;<span>&#8226;</span> Set up and optimize DB: add index, split data and better shared tables<br>
 &nbsp;&nbsp;<span>&#8226;</span> Implement complex business logic<br>
 
-##### **Dedicate Report Automation**
+#### **Dedicate Report Automation**
 &nbsp;&nbsp;<span>&#8226;</span> Report Automation for other teams: planner, accouting, pricing etc.<br>
 &nbsp;&nbsp;<span>&#8226;</span> File upload app for other teams to store data<br>
 
-##### **Year End Inventory**
+#### **Year End Inventory**
 &nbsp;&nbsp;<span>&#8226;</span> <br>
-
 
 ***
 
-### **Education**
+## **Education**
 Master in ***Information Technology and Management*** <br>
 <span>&#64;</span> University of Texas at Dallas <span>&#8226;</span>
 Aug 2013 - Jun 2015
