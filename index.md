@@ -1,4 +1,5 @@
 ### About
+Hi, this is *Yuan Zhang*, an .Net Developer, sql ninja and data enthusiat. Below is what I'm excel and capable of! Enjoy!
  <hr>
 
 ### Stack
