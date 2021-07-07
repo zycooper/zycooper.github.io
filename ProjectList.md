@@ -1,6 +1,6 @@
 ## Job Duty
 * Maintain and fine tune Database to optimize performance.
-* Develope applications to fullfill users' request.
+* Develope applications to fullfill users' requests.
 * Guide and help junior teammembers to finish their tasks.
 * Help manager and supervisor to strengthen the whole team.
 

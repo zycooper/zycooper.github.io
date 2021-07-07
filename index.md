@@ -19,9 +19,9 @@ Back-End:
 ![](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)<br>
 Platform: 
 ![](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=ffffff) 
-![](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)
-<span>&#8226;</span> Code Management: 
+![](https://img.shields.io/badge/-SQL_Server-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)<br>
+ Code Management: 
 ![](https://img.shields.io/badge/-TFS-6264A7?style=flat-square&logo=microsoft-teams&logoColor=ffffff) 
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
 
@@ -32,7 +32,7 @@ Platform:
 SMS InfoComm <span>&#8226;</span>
 Mar 2017 - Present<br>
 &nbsp;&nbsp;<span>&#8226;</span> Maintain and fine tune Database to optimize performance.<br>
-&nbsp;&nbsp;<span>&#8226;</span> Develope applications to fullfill users' request.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Develope applications to fullfill users' requests.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Guide and help junior teammembers to finish their tasks.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Help manager and supervisor to strengthen the whole team.<br>
 
@@ -48,11 +48,11 @@ Oct 2015 - Jun 2016<br>
 #### **General Tools for Team** 
 &nbsp;&nbsp;<span>&#8226;</span> Include variaty of functions, such as vlookup, data retrieve and export from/to multiple database and other data file, pivot data, email send, log system and html string convert.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Utilized by whole team and on 85% of team projects.<br>
-&nbsp;&nbsp;<span>&#8226;</span> Different version in [Javascript](https://duckduckgo.com) and [C# .Net](https://duckduckgo.com)<br>
+&nbsp;&nbsp;<span>&#8226;</span> Different version in [Javascript](https://github.com/zycooper/Tools/tree/master/JS) and [C# .Net](https://github.com/zycooper/Tools/tree/master/.net)<br>
 &nbsp;&nbsp;<span>&#8226;</span> Applied multiple design patterns to speed up the development process and extend the scalability.<br>
 
-#### **Report Platforms**
-&nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using [Angular/Bootstrap/.Net Core](https://duckduckgo.com) for web and .Net framework for desktop<br>
+#### **BI Platforms**
+&nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using [Angular/Bootstrap/.Net Core](https://github.com/zycooper/Yuan_BI) for web and .Net framework for desktop<br>
 &nbsp;&nbsp;<span>&#8226;</span> Added 350 reports to fullfill other teams requirements.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Provide real time and 95% accurate data anytime anywhere with internet conection for user.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Multiple ways(eg. login management) to secure data and variaous ways(eg.chart/table) to present the data.<br>
@@ -79,7 +79,7 @@ Oct 2015 - Jun 2016<br>
 #### Miscellaneous
 &nbsp;&nbsp;<span>&#8226;</span> Developed and maintained printing service app(in PHP and C#) for shipping team.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Developed and maintained several management information systems for other team.<br>
-&nbsp;&nbsp;<span>&#8226;</span> Developed new official website in Javascript/HTML/CSS and Bootstrap template.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Developed new [official website](http://www.smsinfocomm.com/) in Javascript/HTML/CSS and Bootstrap template.<br>
 ***
 
 ## **Education**
