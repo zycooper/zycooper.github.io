@@ -48,11 +48,11 @@ Oct 2015 - Jun 2016<br>
 #### **General Tools for Team** 
 &nbsp;&nbsp;<span>&#8226;</span> Include variaty of functions, such as vlookup, data retrieve and export from/to multiple database and other data file, pivot data, email send, log system and html string convert.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Utilized by whole team and on 85% of team projects.<br>
-&nbsp;&nbsp;<span>&#8226;</span> Different version in ***<ins>[Javascript](https://github.com/zycooper/Tools/tree/master/JS)</ins>*** and *<ins>[C# .Net](https://github.com/zycooper/Tools/tree/master/.net)</ins>*<br>
+&nbsp;&nbsp;<span>&#8226;</span> Different version in ***<ins>[Javascript](https://github.com/zycooper/Tools/tree/master/JS)</ins>*** and ***<ins>[C# .Net](https://github.com/zycooper/Tools/tree/master/.net)</ins>***<br>
 &nbsp;&nbsp;<span>&#8226;</span> Applied multiple design patterns to speed up the development process and extend the scalability.<br>
 
 #### **BI Platforms**
-&nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using Angular/Bootstrap/.Net Core for <ins>[web](https://github.com/zycooper/Yuan_BI)</ins> and .Net framework for desktop<br>
+&nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using Angular/Bootstrap/.Net Core for ***<ins>[web](https://github.com/zycooper/Yuan_BI)</ins>*** and .Net framework for desktop<br>
 &nbsp;&nbsp;<span>&#8226;</span> Added 350 reports to fullfill other teams requirements.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Provide real time and 95% accurate data anytime anywhere with internet conection for user.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Multiple ways(eg. login management) to secure data and variaous ways(eg.chart/table) to present the data.<br>
