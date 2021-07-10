@@ -62,10 +62,12 @@ Oct 2015 - Jun 2016<br>
 &nbsp;&nbsp;<span>&#8226;</span> Include mutiple chart types and pivot tables in the reports.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Automatically send out reports base on user's request.<br>
 
-#### **Fine Tune Database**
+#### **Fine Tune Database and code repositories**
 &nbsp;&nbsp;<span>&#8226;</span> Developed dedicate tool to sync data from production DB multiple interval.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Set up tables, indexes, views, store procedures, triggers, types and functions to optimize DB performance.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Implement complex business logic base on user's request.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Unite and create API and parent classes for team to use. <br>
+&nbsp;&nbsp;<span>&#8226;</span> Standardize and maintain schedule jobs to download and update data. <br>
 
 #### **Dedicate Report Automation**
 &nbsp;&nbsp;<span>&#8226;</span> Report Automation apps for other teams: planner, accouting, pricing etc.<br>
