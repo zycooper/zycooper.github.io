@@ -4,26 +4,12 @@ Hi, this is *Yuan Zhang*, an .Net Developer, sql ninja and data enthusiast. Belo
 
 ## **Technical Stack**
 Front-End: 
-![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=ffffff)
-![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=ffffff)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff)
-![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
-![](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
-![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)
-![](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=ffffff)
-![](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=ffffff)<br>
+Angular <span>&#8226;</span> TypeScript <span>&#8226;</span> JavaScript <span>&#8226;</span> HTML <span>&#8226;</span> CSS <span>&#8226;</span> PHP <span>&#8226;</span> JQuery <span>&#8226;</span> Bootstrap <br>
 Back-End: 
-![](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) 
-![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
-![](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)<br>
+C# <span>&#8226;</span> SQL <span>&#8226;</span> Java <span>&#8226;</span> SQL <br>
 Platform: 
-![](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=ffffff) 
-![](https://img.shields.io/badge/-SQL_Server-003B57?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)<br>
- Code Management: 
-![](https://img.shields.io/badge/-TFS-6264A7?style=flat-square&logo=microsoft-teams&logoColor=ffffff) 
-![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
+.Net <span>&#8226;</span> SQL Server <span>&#8226;</span> Oracle <br>
+Code Management: TFS <span>&#8226;</span> Git
 
 ***
 
@@ -35,6 +21,7 @@ Mar 2017 - Present<br>
 &nbsp;&nbsp;<span>&#8226;</span> Develope applications to fullfill users' requests.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Guide and help junior teammembers to finish their tasks.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Help manager and supervisor to strengthen the whole team.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Main stack: .Net(C#), Angular, SQL Server<br>
 
 *Headset Tester* <span>&#64;</span>
 Brook Consultants Inc. <span>&#8226;</span>
@@ -63,7 +50,7 @@ Oct 2015 - Jun 2016<br>
 &nbsp;&nbsp;<span>&#8226;</span> Automatically send out reports base on user's request.<br>
 
 #### **Fine Tune Database**
-&nbsp;&nbsp;<span>&#8226;</span> Developed dedicate tool to sync data from production DB multiple interval.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Developed dedicate tool to sync data from production DB multiple time interval.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Set up tables, indexes, views, store procedures, triggers, types and functions to optimize DB performance.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Implement complex business logic base on user's request.<br>
 
