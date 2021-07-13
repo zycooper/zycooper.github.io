@@ -40,7 +40,7 @@ Oct 2015 - Jun 2016<br>
 
 #### **BI Platforms**
 &nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using Angular/Bootstrap/.Net Core for ***<ins>[web](https://github.com/zycooper/Yuan_BI)</ins>*** and .Net framework for desktop<br>
-&nbsp;&nbsp;<span>&#8226;</span> Deployed and host Web API to retrieve data from DB and handle http request. <br>
+&nbsp;&nbsp;<span>&#8226;</span> Deployed and hosted Web API to retrieve data from DB and handle http requests. <br>
 &nbsp;&nbsp;<span>&#8226;</span> Added 350 reports to fulfill other teams requirements.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Configured and controlled report simply by XML files, not re-deploy required.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Provide real time and 95% accurate data anytime anywhere with internet connection for user.<br>

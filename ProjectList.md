@@ -13,7 +13,7 @@
 
 * BI Platforms
   * Developed 3 main report platforms using Angular/Bootstrap/.Net core for web and .Net framework for desktop
-  * Deployed and host Web API to retrieve data from DB and handle http request.
+  * Deployed and hosted Web API to retrieve data from DB and handle http requests.
   * Added 350 reports to fulfill other teams requirements.
   * Configured and controlled report simply by XML files, not re-deploy required.
   * Provided real time and 95% accurate data anytime anywhere with internet connection for user.
