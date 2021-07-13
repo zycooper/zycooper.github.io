@@ -60,8 +60,9 @@ Oct 2015 - Jun 2016<br>
 &nbsp;&nbsp;<span>&#8226;</span> Mainly use .Net Framework to develop.<br>
 
 #### **Year End Inventory**
-&nbsp;&nbsp;<span>&#8226;</span> Help warehouse team to cut the YEI process time from one week to 6 hours and increase count accuracy.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Developed multiple apps for different role eg. counter, key-in, and control desk using C# and VB.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Help warehouse team to cut the YEI process time from one week to 6 hours and increase count accuracy.<br>
+
 
 #### Miscellaneous
 &nbsp;&nbsp;<span>&#8226;</span> Developed and maintained printing service app(in PHP and C#) for shipping team.<br>
