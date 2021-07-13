@@ -1,14 +1,14 @@
 ## **About**
-Hi, this is *Yuan Zhang*, an .Net Developer, sql ninja and data enthusiast. Below is what I'm excel and capable of! Enjoy!
+Hi, this is *Yuan*, an .Net Developer, sql ninja and data enthusiast. Below is what I'm excel and capable of!
 ***
 
 ## **Technical Stack**
 Front-End: 
 Angular <span>&#8226;</span> TypeScript <span>&#8226;</span> JavaScript <span>&#8226;</span> HTML <span>&#8226;</span> CSS <span>&#8226;</span> PHP <span>&#8226;</span> JQuery <span>&#8226;</span> Bootstrap <br>
 Back-End: 
-C# <span>&#8226;</span> SQL <span>&#8226;</span> Java <span>&#8226;</span> SQL <br>
+C# <span>&#8226;</span> SQL <span>&#8226;</span> Java <span>&#8226;</span> SQL <span>&#8226;</span> Web API <br>
 Platform: 
-.Net <span>&#8226;</span> SQL Server <span>&#8226;</span> Oracle <br>
+.Net Framework and Core <span>&#8226;</span> SQL Server <span>&#8226;</span> Oracle <br>
 Code Management: TFS <span>&#8226;</span> Git
 
 ***
@@ -40,7 +40,9 @@ Oct 2015 - Jun 2016<br>
 
 #### **BI Platforms**
 &nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using Angular/Bootstrap/.Net Core for ***<ins>[web](https://github.com/zycooper/Yuan_BI)</ins>*** and .Net framework for desktop<br>
+&nbsp;&nbsp;<span>&#8226;</span> Deployed and host Web API to retrieve data from DB and handle http request. <br>
 &nbsp;&nbsp;<span>&#8226;</span> Added 350 reports to fullfill other teams requirements.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Configured and controled report simply by XML files, not re-deploy required.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Provide real time and 95% accurate data anytime anywhere with internet conection for user.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Multiple ways(eg. login management) to secure data and variaous ways(eg.chart/table) to present the data.<br>
 
