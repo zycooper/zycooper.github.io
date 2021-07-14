@@ -14,7 +14,7 @@ Code Management: TFS <span>&#8226;</span> Git
 ***
 
 ## **Work Experience**
-***Senior Software Engineer*** <span>&#64;</span>
+**Senior Software Engineer** <span>&#64;</span>
 SMS InfoComm <span>&#8226;</span>
 Mar 2017 - Present<br>
 &nbsp;&nbsp;<span>&#8226;</span> Maintain and fine tune Database to optimize performance.<br>
@@ -23,10 +23,10 @@ Mar 2017 - Present<br>
 &nbsp;&nbsp;<span>&#8226;</span> Help manager and supervisor to strengthen the whole team.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Main stack: .Net(C#), Angular, SQL Server<br>
 
-*Headset Tester* <span>&#64;</span>
+Headset Tester <span>&#64;</span>
 Brook Consultants Inc. <span>&#8226;</span>
 Jun 2016 - Feb 2017<br>
-*Data Analyst* <span>&#64;</span>
+Data Analyst <span>&#64;</span>
 MAG Retail Group <span>&#8226;</span>
 Oct 2015 - Jun 2016<br>
 ***
@@ -35,11 +35,11 @@ Oct 2015 - Jun 2016<br>
 #### **General Tools for Team** 
 &nbsp;&nbsp;<span>&#8226;</span> Include variety of functions, such as vlookup, data retrieve and export from/to multiple database and other data file, pivot data, email send, log system and html string convert.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Utilized by whole team and on 85% of team projects.<br>
-&nbsp;&nbsp;<span>&#8226;</span> Different version in ***<ins>[Javascript](https://github.com/zycooper/Tools/tree/master/JS)</ins>*** and ***<ins>[C# .Net](https://github.com/zycooper/Tools/tree/master/.net)</ins>***<br>
+&nbsp;&nbsp;<span>&#8226;</span> Different version in **<ins>[Javascript](https://github.com/zycooper/Tools/tree/master/JS)</ins>** and **<ins>[C# .Net](https://github.com/zycooper/Tools/tree/master/.net)</ins>**<br>
 &nbsp;&nbsp;<span>&#8226;</span> Applied multiple design patterns to speed up the development process and extend the scalability.<br>
 
 #### **BI Platforms**
-&nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using Angular/Bootstrap/.Net Core for ***<ins>[web](https://github.com/zycooper/Yuan_BI)</ins>*** and .Net framework for desktop<br>
+&nbsp;&nbsp;<span>&#8226;</span> Developed 3 main report platforms using Angular/Bootstrap/.Net Core for **<ins>[web](https://github.com/zycooper/Yuan_BI)</ins>** and .Net framework for desktop<br>
 &nbsp;&nbsp;<span>&#8226;</span> Deployed and hosted Web API to retrieve data from DB and handle http requests. <br>
 &nbsp;&nbsp;<span>&#8226;</span> Added 350 reports to fulfill other teams requirements.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Configured and controlled report simply by XML files, not re-deploy required.<br>
@@ -69,11 +69,11 @@ Oct 2015 - Jun 2016<br>
 #### Miscellaneous
 &nbsp;&nbsp;<span>&#8226;</span> Developed and maintained printing service app(in PHP and C#) for shipping team.<br>
 &nbsp;&nbsp;<span>&#8226;</span> Developed and maintained several management information systems for other teams.<br>
-&nbsp;&nbsp;<span>&#8226;</span> Developed new ***<ins>[official website](http://www.smsinfocomm.com/)</ins>*** in Javascript/HTML/CSS and Bootstrap template.<br>
+&nbsp;&nbsp;<span>&#8226;</span> Developed new **<ins>[official website](http://www.smsinfocomm.com/)</ins>** in Javascript/HTML/CSS and Bootstrap template.<br>
 ***
 
 ## **Education**
-Master in ***Information Technology and Management*** <br>
+Master in **Information Technology and Management** <br>
 <span>&#64;</span> University of Texas at Dallas <span>&#8226;</span>
 Aug 2013 - Jun 2015
 ***
